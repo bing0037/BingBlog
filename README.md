@@ -7,3 +7,6 @@ visit: https://bing0037.github.io/BingBlog/
 
 # Build reference: 
 http://www.jianshu.com/p/dedece530791
+
+# TODO next:
+https://github.com/litaotao/github-blog-template
